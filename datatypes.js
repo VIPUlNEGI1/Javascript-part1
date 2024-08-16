@@ -24,7 +24,7 @@ let vipulgirlfriend =false// boolean  it is used for true / false
 BigInt=34544433333
 
 
-//  undefine is the standalone value 
+//  undefineu= is the standalone value 
 let tem;
 
 
@@ -44,6 +44,19 @@ console.log(id===anotherid)
 
 // all datatype return type i read in mdn webside
 
+// ===========================operations===================================
+let value = 3
+let negvalue = -value
+console.log(negvalue)
 
+ let str1 = "hello"
+ let str2 = " hitesh"
+
+ let str3 = str1 + str2
+ console.log(str3)
+
+ console.log("1" + 2)
+ console.log(1 + "2")
+ console.log(1 + 2 - 2 /6)
 
 
