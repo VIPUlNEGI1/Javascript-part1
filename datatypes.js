@@ -24,7 +24,7 @@ let vipulgirlfriend =false// boolean  it is used for true / false
 BigInt=34544433333
 
 
-//  null is the standalone value 
+//  undefine is the standalone value 
 let tem;
 
 

@@ -11,6 +11,7 @@
 // console.log("2">1)
 // console.log("02"<1)
 
+// javascript can compleat convert data types acording to this setwation
 
 // coparision operator
 // operator

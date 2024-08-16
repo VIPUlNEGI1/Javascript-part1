@@ -21,7 +21,7 @@ console.log(myarray)
 
 myarray.unshift(4)
 console.log(myarray)
-// this unshiftis used to add element in front of the array but it is very taking compalition time because we are add some element in front the all element was shifted memory location
+// this unshiftis used to add element in front of the array but it is very taking compalition time because we are add some element in front the all element was shifted in  memory location
 
 myarray.shift()
 // shift is used to remove the element front of the array
