@@ -39,10 +39,7 @@ console.log(typeof[mySymbol])
 
 // how to add funcation in objects
 // problem
-vipul.greeting= funcation(){
-    console.log("hellow js user");
-
-}
+let vipul = { greeting: function() { console.log("Hello, JS user!"); } };
 
 //  how to eccess the objects in funcations
 vipul.greetingtwo = funcation(){

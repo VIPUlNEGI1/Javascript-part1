@@ -43,6 +43,17 @@ console.log(id===anotherid)
 
 
 // all datatype return type i read in mdn webside
+a = 1
+b = 8
+const a = 1;
+const b = 8;
+
+if (a != b) {
+    console.log("1 is not equal to 8");
+} else {
+    console.log("1 is equal to 8");
+}
+
 
 // ===========================operations===================================
 let value = 3

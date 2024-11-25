@@ -12,7 +12,7 @@ console.log(myarray[5])
 myarray.push(6)
 myarray.push(7)
 console.log(myarray)
-// push funcation is mostimportant funcation in array it is used to add a data ((valye)in array
+// push method is most important method in array it is used to add a data ((valye)in array
 
 myarray.pop()
 console.log(myarray)

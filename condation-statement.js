@@ -1,10 +1,10 @@
 
 // this is a basic convarsion 
-// console.log(2 > 1)
-// console.log(2>= 1)
-// console.log(2 < 1)
-// console.log(2 ==1)
-// console.log(2!= 1)
+console.log(2 > 1)
+console.log(2>= 1)
+console.log(2 < 1)
+console.log(2 ==1)
+console.log(2!= 1)
 
 
 // this is difficult conversion because this are conpare different type of datatypes
